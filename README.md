@@ -1,2 +1,2 @@
 # sixseven
-trying out language running other languages idk
+Random number generator written in C and can be used elsewhere
